@@ -1,4 +1,6 @@
-# darknet YOLOv4를 이용한 Challenge 참여 Tutorial
+# darknet YOLOv4를 이용한 Challenge 참여
+
+Final Ranking : **4th** / 20teams
 
 ## Introduction
 
